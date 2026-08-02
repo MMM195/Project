@@ -1,0 +1,13 @@
+test01@gmail.com
+test01
+
+admin@preferrent.com
+admin2000
+
+*หมายเหตุ*
+นำไฟล์ preferrent ไปวางในโฟเดอร์ XAMPP ของท่าน ภายใต้ \htdocs
+เช่น C:\xampp\htdocs
+
+และอย่าลืมอัพโหลดไฟล์ SQL บน http://localhost/phpmyadmin
+
+รันเว็ปผ่านลิ้งค์นี้ http://localhost/preferrent/index.html
